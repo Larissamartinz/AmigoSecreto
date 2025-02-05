@@ -6,3 +6,4 @@ Ao acessar o site, o usuário digitará os nomes desejados e, em seguida, poder�
 Autora do projeto:
 Larissa Pinto Martins
 GitHub: Larissamartinz
+Link para o jogo: https://larissamartinz.github.io/AmigoSecreto/
